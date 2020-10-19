@@ -1,4 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was Firebase with [Create React App](https://github.com/facebook/create-react-app).
+
+# About project
+
+### Hey Guys
+In this lockdown period I want to improve my skills in full stack web development and want something real life at the same time, hence after lots of brainstorming I ended up with developing this awesome Messenger Clone which is completely responsive and feature packed. Putting years of development of Messenger in just 3-4 days was not easy but It helped me learn how big projects and real world development works.
+
+I have implemented extreme level user authentication and realtime chat utility and the most important thing, be it chat on others chat everything is realtime which gives it superpowers. I think its one of my best projects because now I can see Messenger with the eyes of a developer.
+
+# Sneak peek-
+
+As I have stated its feature packed you must be curious that what exactly the thing is? I have shooted a video of all the things you can do with it so just chek it out, I think it would blow your mind.plaese watch the video [Messenger-clone](https://www.youtube.com/watch?v=9EP6zP2W9-A)
+
+### please like the video and subscribe to my channel
+
+# Tech Stack-
+<ul>
+<li> ReactJs- Components,Hooks,props,Array destructing,Map method,fat Arrow function,Template Literals </li>
+<li> Npm module: React flip Move  </li>
+<li> Material UI: for Better User Interface  </li>
+<li> firebase firestore: for realtime database  </li>
+<li> firebase hosting: for deploying the project </li>
+<li> Css and css flexbox and Media query for mobile responsiveness. </li>
+<li> Jsx which allows javascript to be written inside html </li>
+<li> Google Authentication </li>
+<li> Awesome User Interface </li>
+<li> React context api Which allows data transfer one component to another very easily </li>
+</ul>
+
 
 ## Available Scripts
 
